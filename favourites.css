@@ -1,0 +1,13 @@
+h1  {
+    color: peru;
+    text-align: center;
+}
+ul  {
+    line-height: 40px;
+}
+ol  {
+    line-height: 40px;
+}
+li  {
+    color: red;
+}
